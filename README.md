@@ -1,6 +1,6 @@
 # wish - The Wildly Innovative Shell
 Author: John McBride
-Email: mcbridej@oregonstate.edu
+Email: jpmmcbride@gmail.com
 Date: May 27th 2018
 
 ### To compile:
